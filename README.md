@@ -1,4 +1,4 @@
-🛡️ SOC Log Analyzer (Python)
+# 🛡️ SOC Log Analyzer (Python)
 
 A Python-based SOC (Security Operations Center) simulation tool designed to analyze authentication logs and detect suspicious activity such as brute force attacks and abnormal login behavior.
 
